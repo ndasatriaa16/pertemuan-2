@@ -1,0 +1,8 @@
+class Prktik1 {
+    public static void main(String[] args) {
+        int bilangan1 = 10;
+        int bilangan2 = 5;
+        String kalimat1 = "SAYA BELAJAR DASPRO";
+        System.out.println(bilangan1+bilangan2);
+    }
+}
