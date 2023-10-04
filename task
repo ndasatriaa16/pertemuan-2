@@ -1,0 +1,17 @@
+public class task {
+	public static void main(String[] args) {
+		String nama = ("Ananda Satria");
+		int nim = (1237050125);
+		int tgs = (89);
+		int uts = (95);
+		int uas = (90);
+		double nilai_akhir = (tgs * 0.3 + uts * 0.3 + uas * 0.4);
+		System.out.println("---DATA NILAI MAHASISWA---");
+		System.out.println("NAMA        :" + nama);
+		System.out.println("NIM         :" + nim);
+		System.out.println("NILAI TUGAS :" + tgs);
+		System.out.println("NILAI UTS   :" + uts);
+		System.out.println("NILAI UAS   :" + uas);
+		System.out.println("NILAI AKHIR :" + nilai_akhir); 
+	}
+}
