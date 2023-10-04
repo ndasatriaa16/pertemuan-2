@@ -1,0 +1,9 @@
+class Numbers {
+    public static void main(String[] args) {
+        int bil1 = 5;
+        int bil2 = 4;
+        int bil3 = 2;
+        bil1 = (bil1%bil2)*bil1;
+        System.out.println(bil1+bil3);
+    }
+}
